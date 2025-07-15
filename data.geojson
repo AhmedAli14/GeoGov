@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SiteName": "BSINI36535", "LONG": 33.851761, "LAT": 30.710337 }, "geometry": { "type": "Point", "coordinates": [ 33.851761, 30.710337 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI36535", "LONG": 33.851761, "LAT": 30.710337 }, "geometry": { "type": "Point", "coordinates": [ 33.851761, 30.710337 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI36535", "LONG": 33.851761, "LAT": 30.710337 }, "geometry": { "type": "Point", "coordinates": [ 33.851761, 30.710337 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI36535", "LONG": 33.851761, "LAT": 30.710337 }, "geometry": { "type": "Point", "coordinates": [ 33.851761, 30.710337 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI36535", "LONG": 33.851761, "LAT": 30.710337 }, "geometry": { "type": "Point", "coordinates": [ 33.851761, 30.710337 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI37754", "LONG": 33.85673159, "LAT": 30.70731412 }, "geometry": { "type": "Point", "coordinates": [ 33.85673159, 30.70731412 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI37754", "LONG": 33.85673159, "LAT": 30.70731412 }, "geometry": { "type": "Point", "coordinates": [ 33.85673159, 30.70731412 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI37754", "LONG": 33.85673159, "LAT": 30.70731412 }, "geometry": { "type": "Point", "coordinates": [ 33.85673159, 30.70731412 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI37754", "LONG": 33.85673159, "LAT": 30.70731412 }, "geometry": { "type": "Point", "coordinates": [ 33.85673159, 30.70731412 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINI37754", "LONG": 33.85673159, "LAT": 30.70731412 }, "geometry": { "type": "Point", "coordinates": [ 33.85673159, 30.70731412 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS36716", "LONG": 34.51488, "LAT": 28.48868 }, "geometry": { "type": "Point", "coordinates": [ 34.51488, 28.48868 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS36716", "LONG": 34.51488, "LAT": 28.48868 }, "geometry": { "type": "Point", "coordinates": [ 34.51488, 28.48868 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS36716", "LONG": 34.51488, "LAT": 28.48868 }, "geometry": { "type": "Point", "coordinates": [ 34.51488, 28.48868 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS36716", "LONG": 34.51488, "LAT": 28.48868 }, "geometry": { "type": "Point", "coordinates": [ 34.51488, 28.48868 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS36716", "LONG": 34.51488, "LAT": 28.48868 }, "geometry": { "type": "Point", "coordinates": [ 34.51488, 28.48868 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS37674", "LONG": 34.51191, "LAT": 28.50777 }, "geometry": { "type": "Point", "coordinates": [ 34.51191, 28.50777 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS37674", "LONG": 34.51191, "LAT": 28.50777 }, "geometry": { "type": "Point", "coordinates": [ 34.51191, 28.50777 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS37674", "LONG": 34.51191, "LAT": 28.50777 }, "geometry": { "type": "Point", "coordinates": [ 34.51191, 28.50777 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS37674", "LONG": 34.51191, "LAT": 28.50777 }, "geometry": { "type": "Point", "coordinates": [ 34.51191, 28.50777 ] } },
+{ "type": "Feature", "properties": { "SiteName": "BSINS37674", "LONG": 34.51191, "LAT": 28.50777 }, "geometry": { "type": "Point", "coordinates": [ 34.51191, 28.50777 ] } },
+{ "type": "Feature", "properties": { "SiteName": "LALXA13207", "LONG": 29.909285, "LAT": 31.198093 }, "geometry": { "type": "Point", "coordinates": [ 29.909285, 31.198093 ] } },
+{ "type": "Feature", "properties": { "SiteName": "LALXA13207", "LONG": 29.909285, "LAT": 31.198093 }, "geometry": { "type": "Point", "coordinates": [ 29.909285, 31.198093 ] } },
+{ "type": "Feature", "properties": { "SiteName": "LALXA13207", "LONG": 29.909285, "LAT": 31.198093 }, "geometry": { "type": "Point", "coordinates": [ 29.909285, 31.198093 ] } },
+{ "type": "Feature", "properties": { "SiteName": "LALXA13207", "LONG": 29.909285, "LAT": 31.198093 }, "geometry": { "type": "Point", "coordinates": [ 29.909285, 31.198093 ] } },
+{ "type": "Feature", "properties": { "SiteName": "LALXA13207", "LONG": 29.909285, "LAT": 31.198093 }, "geometry": { "type": "Point", "coordinates": [ 29.909285, 31.198093 ] } }
+]
+}
